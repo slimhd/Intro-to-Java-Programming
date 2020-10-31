@@ -1,12 +1,7 @@
-/*
-(Geometry: point in a circle?) Write a program that prompts the user to enter a
-point (x, y) and checks whether the point is within the circle centered at (0, 0)
-with radius 10. For example, (4, 5) is inside the circle and (9, 9) is outside the
-circle, as shown in Figure 3.7a.
-*/
+
 import java.util.Scanner;
 
-public class Exercise_03_22 {
+public class pointInCircle {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 
